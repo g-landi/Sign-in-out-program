@@ -1,0 +1,2 @@
+# Sign-in-out-program
+A problem many teachers have, is getting their students to either sign in and out or do it properly, as many students simply write their name on the sheet. My program will solve this issue. Each student will have their own card. Each card will have a shape on it, and each side will represent either A,B,C, or D. The students will scan their card underneath a camera and the program will tell which student it is and will automatically sign them out. It will take the name, date, location, the time out, and the time in.  
